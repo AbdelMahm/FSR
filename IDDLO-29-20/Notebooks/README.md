@@ -4,7 +4,7 @@
 https://forms.gle/HA5zEF1mX9B1nn1b9
 
 ## Logistic Regression
-TBD
+https://forms.gle/yjWkFm8QDc9Tzfv56
 
 ## Support Vector Machines
 TBD
